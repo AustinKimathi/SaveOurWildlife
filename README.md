@@ -11,4 +11,4 @@ Multimedia web page for a conservation organization promotional video.
 
 ## GitHub Pages
 
-Live site: https://YOUR_USERNAME.github.io/SaveOurWildlife/
+Live site: https://austinkimathi.github.io/SaveOurWildlife/
